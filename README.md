@@ -139,13 +139,14 @@ Data Visualization in Excel
 
 Microsoft Excel
 
-Pivot Tables
+  Pivot Tables
+  
+  Pivot Charts
+  
+  Slicers
+  
+  Formulas
 
-Pivot Charts
-
-Slicers
-
-Formulas
 📌 How to Use This Dashboard
 
 Download Adidas_Dashboard.xlsx
